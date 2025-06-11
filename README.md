@@ -24,4 +24,4 @@ A simple recruitment portal backend built using Java, Spring Boot, and PostgreSQ
 
 ## Author
 - [Yogananda](https://github.com/Yogananda-09)
--
+
